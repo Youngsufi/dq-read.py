@@ -10,6 +10,4 @@ def load_data():
 
 if __name__ == "__main__":
     
-    load_data()
-    
-print(load_data().head())
+    print(load_data().head())
